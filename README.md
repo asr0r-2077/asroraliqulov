@@ -16,7 +16,7 @@
 
 
 ## 📫 How to Reach Me
-- **X:** [Asror](https://twitter.com/SwiftUIKit)
+- **X:** [SwiftUIKit](https://twitter.com/SwiftUIKit)
 
 ## 🎉 Fun Fact
 I want to learn how to work with servers.
