@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, it's SwiftUIKit 👋
 
-<!--
-**swift-ui-kit/swift-ui-kit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+- 🌟 I'm a beginner iOS developer passionate about learning and creating innovative applications.
+- 📱 I'm currently diving deep into Swift and the world of iOS development.
+- 📚 I'm always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- **Languages:** Swift
+- **Tools & Frameworks:** Xcode, UIKit, SwiftUI (beginner level)
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![SwiftUIKit's GitHub stats](https://github-readme-stats.vercel.app/api?username=swift-ui-kit&show_icons=true&theme=radical)
+
+
+
+## 📫 How to Reach Me
+- **X:** [Asror](https://twitter.com/SwiftUIKit)
+
+## 🎉 Fun Fact
+I want to learn how to work with servers.
+
+
