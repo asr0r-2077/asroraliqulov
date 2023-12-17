@@ -1,4 +1,4 @@
-# Hi there, it's SwiftUIKit 👋
+# Hi there, I'm Asror 👋
 
 ## 🌱 About Me
 - 🌟 I'm a beginner iOS developer passionate about learning and creating innovative applications.
@@ -7,16 +7,16 @@
 
 ## 🚀 Technologies & Tools
 - **Languages:** Swift
-- **Tools & Frameworks:** Xcode, UIKit, SwiftUI (beginner level)
+- **Tools & Frameworks:** Xcode, SwiftUI
 - **Version Control:** Git, GitHub
 
 ## 📈 GitHub Stats
-![SwiftUIKit's GitHub stats](https://github-readme-stats.vercel.app/api?username=swift-ui-kit&show_icons=true&theme=radical)
+![Asror's GitHub stats](https://github-readme-stats.vercel.app/api?username=swift-ui-kit&show_icons=true&theme=radical)
 
 
 
 ## 📫 How to Reach Me
-- **X:** [SwiftUIKit](https://twitter.com/SwiftUIKit)
+- **X:** [Asror](https://twitter.com/asroraliqulov)
 
 ## 🎉 Fun Fact
 I want to learn how to work with servers.
