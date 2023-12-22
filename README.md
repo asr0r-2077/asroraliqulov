@@ -11,7 +11,7 @@
 - **Version Control:** Git, GitHub
 
 ## 📈 GitHub Stats
-![Asror's GitHub stats](https://github-readme-stats.vercel.app/api?username=swift-ui-kit&show_icons=true&theme=radical)
+![Asror's GitHub stats](https://github-readme-stats.vercel.app/api?username=asroraliqulov&show_icons=true&theme=radical)
 
 
 
