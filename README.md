@@ -16,9 +16,9 @@
 
 
 ## 📫 How to Reach Me
-- **X:** [Asror](https://twitter.com/asroraliqulov)
+- **X:** [Asror](https://twitter.com/asr0r_)
 
-## 🎉 Fun Fact
-I want to learn how to work with servers.
+## 🛹 Interested In
+I want to learn about Operating Systems and Embedded Software.
 
 
