@@ -16,7 +16,7 @@
 
 
 ## 📫 How to Reach Me
-- **X:** [Asror](https://twitter.com/asr0r_)
+- **X:** [Asror](https://twitter.com/asr0r_2077)
 
 ## 🛹 Interested In
 I want to learn about Operating Systems and Embedded Software.
